@@ -1,0 +1,23 @@
+.navbar-custom {
+    background-color: #F5B;
+    padding: 5px 10px; 
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white !important;
+    font-size: 20px;
+}
+
+.logo {
+    width: 100px;  
+    height: auto; 
+    margin-right: 10px; 
+}
+.profile-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
